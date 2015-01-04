@@ -1,0 +1,27 @@
+{
+  "name": "glufine_tests",
+  "version": "0.0.1",
+  "description": "This Glufine APP API unit test",
+  "main": "index.js",
+  "dependencies": {
+    "unit.js": "~1.1.2",
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/albertyann/glufine_tests.git"
+  },
+  "keywords": [
+    "nodejs",
+    "unit.js",
+    "unit"
+  ],
+  "author": "Albert Yann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/albertyann/glufine_tests/issues"
+  }
+}
