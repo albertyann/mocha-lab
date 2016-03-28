@@ -1,4 +1,4 @@
-glufine_tests
+Install
 =============
 
 use nodeunit by nodejs
